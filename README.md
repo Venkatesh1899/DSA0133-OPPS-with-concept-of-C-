@@ -22,7 +22,7 @@ No. of programs completed/Total programs=15/15
 
 DAY 2 :   
 
-No. of programs completed/Total programs=7/15
+No. of programs completed/Total programs=15/15
 
 1.Area checking 
 2.Arithmetic Operations 
