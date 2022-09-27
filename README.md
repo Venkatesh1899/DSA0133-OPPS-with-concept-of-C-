@@ -38,4 +38,4 @@ No. of programs completed/Total programs=4/7
 1.Mammals and Blue whales
 2.Fruits mangoes and apples 6.RBI with concept of OOPs 7.Bank rules with concept of OOPs
 
-1.PRE MODEL EXAM =1/1 2.Model =3/4
+1.PRE MODEL EXAM =1/1 2.Model (Another respiratory)
